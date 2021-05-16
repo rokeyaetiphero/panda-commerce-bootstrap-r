@@ -1,0 +1,23 @@
+.bg{
+    background-color: beige;
+}
+
+.bg-l{
+    background-image: linear-gradient(cornsilk,crimson);
+}
+
+.categories img{
+    width: 100px;
+}
+
+.bg-w{
+    background-image: linear-gradient(#40E0D0,#008080);
+}
+
+.bg-b{
+    background-image: linear-gradient(#F5DEB3,#FF6347);
+}
+
+.bg-s{
+    background-image: linear-gradient(palevioletred,purple); 
+}
